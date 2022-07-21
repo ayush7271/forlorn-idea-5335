@@ -1,0 +1,59 @@
+
+.navbar{
+    width:100%;
+    height:100px;
+    /* background:red; */
+    position:fixed;
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    height: 80px;
+    width: 25%;
+    background-color: red;
+}
+.modal{
+    height: 80px;
+    width: 35%;
+    background-color: red;
+}
+.button{
+    
+        height: 80px;
+        width: 25%;
+        /* background-color: red; */
+    
+}
+.signup{
+    background-color:orange;
+}
+.button{
+    display: flex;
+    justify-content: space-around;
+}
+
+.right-menu{
+    position: relative;
+    display: inline-block;
+    float: right;
+}
+
+.dropdown-menu{
+    display: none;
+    position: absolute;
+    min-width: 158px;
+    z-index: 1;     
+}
+
+.dropdown-menu a:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.right-menu:hover.dropdown-menu{
+    display: block;
+}
+
+.right-menu:hover.menu-button{
+    background-color: transparent;
+}
