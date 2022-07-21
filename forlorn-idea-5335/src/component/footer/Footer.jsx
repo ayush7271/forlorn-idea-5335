@@ -31,19 +31,19 @@ export const Footer = () => {
                 </div>
                 <div className='socialmedia'>
                     <div className='insta'>
-                        <img src="https://cdn-icons-png.flaticon.com/128/1362/1362857.png" alt="" />
+                        <img style={{width:"100%"}} src="https://cdn-icons-png.flaticon.com/128/1362/1362857.png" alt="" />
                     </div>
                     <div className='facebook'>
-                        <img src="https://cdn-icons-png.flaticon.com/128/4406/4406234.png" alt="" />
+                        <img  style={{width:"100%"}} src="https://cdn-icons-png.flaticon.com/128/4406/4406234.png" alt="" />
                     </div>
                     <div className='twit'>
-                        <img src="https://cdn-icons.flaticon.com/png/128/4628/premium/4628695.png?token=exp=1658367720~hmac=f29c34d62f183d35d52bde5cd5a9aee6" alt="" />
+                        <img  style={{width:"100%"}} src="https://cdn-icons.flaticon.com/png/128/4628/premium/4628695.png?token=exp=1658367720~hmac=f29c34d62f183d35d52bde5cd5a9aee6" alt="" />
                     </div>
                     <div className='youtube'>
-                        <img src="https://cdn-icons.flaticon.com/png/128/4628/premium/4628711.png?token=exp=1658367751~hmac=fc6548f588a3ade2388b4d9c9cf14a69" alt="" />
+                        <img  style={{width:"100%"}} src="https://cdn-icons.flaticon.com/png/128/4628/premium/4628711.png?token=exp=1658367751~hmac=fc6548f588a3ade2388b4d9c9cf14a69" alt="" />
                     </div>
                     <div className='pin'>
-                        <img src="https://cdn-icons.flaticon.com/png/128/665/premium/665213.png?token=exp=1658367786~hmac=f51b8a2450c1aea303cf5dd0f426ae2a" alt="" />
+                        <img  style={{width:"100%"}} src="https://cdn-icons.flaticon.com/png/128/665/premium/665213.png?token=exp=1658367786~hmac=f51b8a2450c1aea303cf5dd0f426ae2a" alt="" />
                     </div>
                 </div>
 
