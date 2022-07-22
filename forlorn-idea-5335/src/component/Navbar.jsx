@@ -22,8 +22,8 @@ export const Navbar = () => {
 </div>
 </div>
 <div className='button'>
-    <Button style={{background:"orange",height:"50px",width:"120px",margin:"auto",border:"2px solid green" }}>SIGN UP</Button>
-    <Button style={{background:"#109844",height:"50px",width:"120px",margin:"auto",border:"2px solid green" }}>SIGN IN</Button>
+    <Button style={{background:"orange",height:"50px",width:"120px",margin:"auto",borderRadius:"30px",border:"2px solid orange" }}>SIGN UP</Button>
+    <Button style={{background:"#109844",height:"50px",width:"120px",margin:"auto",borderRadius:"30px",border:"2px solid green" }}>SIGN IN</Button>
 </div>
 
 
