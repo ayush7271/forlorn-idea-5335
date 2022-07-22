@@ -1,5 +1,8 @@
 import React from 'react'
 import './Home.css'
+import { Premium } from './Premium'
+import { Taketosucceed } from './Taketosucceed'
+import { Topratedcalories } from './Topratedcalories'
 export const Home = () => {
   return (
     <>
@@ -87,6 +90,12 @@ nutrition assistant.</p>
               </div>
                 </div>
                
+                
+
+               <Taketosucceed/>
+               <Topratedcalories/>
+               <Premium/>
+              
 
 
     </>
