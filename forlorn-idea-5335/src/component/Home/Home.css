@@ -1,5 +1,5 @@
 .fronttitle{
-    height: 850px;
+    height: 650px;
     width: 100%;
     background-color:#109844 ;
     display: flex;
@@ -22,22 +22,22 @@
   
 } 
 .frontingimg1{
-    width:750px;
-    height: 820px;
+    width:550px;
+    height: 750px;
     
-   margin-top: 130px;
+   margin-top:20px;
    margin-left: -50px;
 }
 .frontingimg2{
     width:400px;
-    height: 550px;
-   margin-top: 450px;
+    height: 450px;
+   margin-top:300px;
    margin-left: -100px;
 }
 .frontingimg3{
-    width:750px;
-    height: 850px;
-   margin-top: 50px;
+    width:450px;
+    height: 650px;
+   margin-top: -30px;
    margin-left: -220px;
 }
 
@@ -47,5 +47,101 @@
    
    margin-left: 120px;
     /* background-color: blue; */
-    height: 400px;
+    height: 200px;
 }
+.toprating{
+    height:100px;
+    width: 35%;
+    /* background-color: red; */
+    margin-left: 50PX;
+    font-size: 25px;
+    margin-top: 30px;
+    color:#46618a
+}
+
+.applerating{
+height:32px;
+width:250px;
+/* background-color; */
+color: #46618a;
+display: flex;
+}
+
+.androidrating{
+    height:32px;
+    width:250px;
+    /* background-color: #109844; */
+    display: flex;
+    }
+
+    .womenhealth{
+        height: 200px;
+        width: 100%;
+        /* background-color: aqua; */
+        font-size: 35px;
+        font-weight: 500;
+        color:#46618a;
+        text-align: center;
+        
+
+    }
+    .hidebox{
+        width: 100%;
+        height: 200px;
+        /* background-color: #109844; */
+        display: flex;
+    }
+    .usatoday{
+        width:250px;
+        height: 80px;
+        /* background-color: blue; */
+    }
+
+    .abcnews{
+        width:150px;
+        height:40px;
+        margin-left: 20px;
+        /* background-color: blue; */
+    }
+    
+    .fox{
+        width:100px;
+        height:40px;
+        margin-left: 20px;
+        /* background-color: blue; */
+    }
+    .t{
+        width:40px;
+        height:30px;
+        margin-left: 20px;
+        /* background-color: blue; */
+    }
+
+    .cr{
+        width:200px;
+        height:30px;
+        margin-left: 20px;
+        /* background-color: blue; */
+    }
+    
+
+    .wsj{
+        width:100px;
+        height:30px;
+        margin-left: 20px;
+        /* background-color: blue; */
+    }
+    
+    .ct{
+        width:400px;
+        height:30px;
+        margin-left: 20px;
+        /* background-color: blue; */
+    }
+    .test{
+        width: 100%;
+        height: 90px;
+        background-color: red;
+
+    }
+

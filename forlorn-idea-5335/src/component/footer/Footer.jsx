@@ -23,7 +23,8 @@ export const Footer = () => {
                     <img style={{width:"25px",height:"20px",marginTop:"5px"}} src="https://s3.amazonaws.com/img.mynetdiary.com/images/rating-star-full.png" alt="" />
                     <img style={{width:"25px",height:"20px",marginTop:"5px"}} src="https://s3.amazonaws.com/img.mynetdiary.com/images/rating-star-full.png" alt="" />
                     <img style={{width:"25px",height:"20px",marginTop:"5px"}} src="https://s3.amazonaws.com/img.mynetdiary.com/images/rating-star-4.7.png" alt="" />
-                    <h1 style={{fontSize:"20px",color:"grey",marginLeft:"2px"}}>4.8</h1>
+                   
+                    <h1 style={{fontSize:"20px",color:"grey",marginLeft:"5px",marginTop:"-.5px"}}>4.8</h1>
                     
                         <li style={{fontSize:"18px",marginTop:"2px",marginLeft:"20px"}}> 61,383 Ratings</li>
                     
@@ -99,7 +100,14 @@ export const Footer = () => {
 
             </div>
     </div>
-    <div className='foot'></div>
+    <div className='foot'>
+        <div className='copyright'>
+            <p>Copyright © 2022 MyNetDiary Inc. All rights reserved.</p>
+        </div>
+        <div className='contact'>
+            <a href="#">Contact Us |</a><a href="#">FAQ |</a><a href="#">Privacy |</a><a href="#">Terms of Use</a>
+        </div>
+    </div>
     </div>
     
   )
