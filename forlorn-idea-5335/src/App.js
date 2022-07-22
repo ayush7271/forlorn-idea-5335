@@ -8,10 +8,10 @@ import { Taketosucceed } from './component/Home/Taketosucceed';
 function App() {
   return (
     <div className="App">
-      {/* <Navbar/> */}
-      {/* <Home/> */}
+      <Navbar/>
+      <Home/>
       <Taketosucceed/>
-      {/* <Footer/> */}
+      <Footer/>
     </div>
   );
 }
