@@ -10,6 +10,10 @@ import { Slideshow } from './component/Home/slideshow';
 import {Route,Routes} from 'react-router-dom'
 import { Features } from './component/Features/Features';
 import { Diets } from './component/Diets/Diets';
+import { Ragister } from './component/Ragister/Ragister';
+import { Ragister2 } from './component/Ragister/Register2';
+import { Login } from './component/Login';
+import { Food } from './component/Food/Food';
 function App() {
   return (
     <div className="App">
@@ -17,10 +21,12 @@ function App() {
       <Routes>
       <Route path="/" element={<Home/>}></Route>
       <Route path="home" element={<Features/>}></Route>  
+      <Route path="/signup" element={<Ragister/>}></Route>
+      <Route path="/sign" element={<Ragister2/>}></Route>
+      <Route path="/login" element={<Login/>}></Route>
+      <Route path="/food" element={<Food/>}></Route>
       </Routes>
-     {/* <Features/> */}
-      {/* <Home/> */}
-      {/* <Slideshow/> */}
+      {/* <Food/> */}
       <Footer/>
     </div>
   );
