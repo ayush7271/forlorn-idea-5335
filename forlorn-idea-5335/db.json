@@ -1,0 +1,107 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Apple, cup, quartered or chopped",
+      "img":"https://s3.amazonaws.com/img.mynetdiary.com/bean/i642.png",
+      "carbs":"17g",
+      "fat":" 0.2g",
+      "protein":"0g",
+      "calories": "65cals"
+    },
+    {
+      "id": 2,
+      "title": "Pizza,slice",
+      "img":"https://s3.amazonaws.com/img.mynetdiary.com/bean/i236.png",
+      "carbs":"35g",
+      "fat":" 12.9g",
+      "protein":"13g",
+      "calories": "305cals"
+    },
+    {
+      "id":3,
+      "title": "milk",
+      "img":"https://s3.amazonaws.com/img.mynetdiary.com/bean/i101.png",
+      "carbs":"12g",
+      "fat":" 7.9g",
+      "protein":"8g",
+      "calories": "149cals"
+    },
+    {
+      "id": 4,
+      "title": "white rice",
+      "img":"https://s3.amazonaws.com/img.mynetdiary.com/bean/i549.png",
+      "carbs":"53g",
+      "fat":" 0.4g",
+      "protein":"4g",
+      "calories": "242cals"
+    },
+    {
+      "id": 5,
+      "title": "white rice",
+      "img":"https://s3.amazonaws.com/img.mynetdiary.com/bean/i549.png",
+      "carbs":"53g",
+      "fat":" 0.4g",
+      "protein":"4g",
+      "calories": "242cals"
+    },
+    {
+      "id": 6,
+      "title": "pulse",
+      "img":"https://s3.amazonaws.com/img.mynetdiary.com/bean/i741.png",
+      "carbs":"19g",
+      "fat":" 0.7g",
+      "protein":"6g",
+      "calories": "84cals"
+    },
+    {
+      "id": 7,
+      "title": "fish curry",
+      "img":"https://s3.amazonaws.com/img.mynetdiary.com/bean/i941.png",
+      "carbs":"38g",
+      "fat":" 7.8g",
+      "protein":"17g",
+      "calories": "294cals"
+    },
+    {
+      "id": 8,
+      "title": "pulse",
+      "img":"https://s3.amazonaws.com/img.mynetdiary.com/bean/i741.png",
+      "carbs":"19g",
+      "fat":" 0.7g",
+      "protein":"6g",
+      "calories": "84cals"
+    }, {
+      "id": 9,
+      "title": "vegetable curry",
+      "img":"https://s3.amazonaws.com/img.mynetdiary.com/bean/i941.png",
+      "carbs":"24g",
+      "fat":" 5.6g",
+      "protein":"4g",
+      "calories": "154cals"
+    },
+    {
+      "id": 10,
+      "title": "banana",
+      "img":"https://s3.amazonaws.com/img.mynetdiary.com/bean/i611.png",
+      "carbs":"27g",
+      "fat":" 0.4g",
+      "protein":"1g",
+      "calories": "105cals"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+
+
+
+  
+}
