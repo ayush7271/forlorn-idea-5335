@@ -68,6 +68,9 @@
     font-weight: 500;
     /* background-color:red; */
 }
+.all-picture-div-1-discription-title>h1{
+    font-size: 40px;
+}
 .all-picture-div-1-discription-para{
     height: 50%;
     width:100%;
@@ -78,6 +81,7 @@
     margin-top: -30px;
     /* background-color:red; */
 }
+
 
 .more{
     width: 100%;

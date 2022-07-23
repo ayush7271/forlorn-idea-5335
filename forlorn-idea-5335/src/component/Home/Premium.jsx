@@ -16,7 +16,7 @@ export const Premium = () => {
                             </h1>
                         </div>
                         <div className='all-picture-div-1-discription-para'>
-                                <h1>Hundreds of easy recipes, with great variety, carefully crafted for great taste by a team of Registered Dietitians.</h1>
+                            Hundreds of easy recipes, with great variety, carefully crafted for great taste by a team of Registered Dietitians.
                         </div>
                     </div>
                 </div>

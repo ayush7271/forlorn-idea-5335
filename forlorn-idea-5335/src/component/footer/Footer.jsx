@@ -38,7 +38,7 @@ export const Footer = () => {
                         <img  style={{width:"100%"}} src="https://cdn-icons-png.flaticon.com/128/4406/4406234.png" alt="" />
                     </div>
                     <div className='twit'>
-                        <img  style={{width:"100%"}} src="https://cdn-icons.flaticon.com/png/128/4628/premium/4628695.png?token=exp=1658367720~hmac=f29c34d62f183d35d52bde5cd5a9aee6" alt="" />
+                        <img  style={{width:"100%"}} src="https://cdn-icons.flaticon.com/png/128/4628/premium/4628695.png" alt="" />
                     </div>
                     <div className='youtube'>
                         <img  style={{width:"100%"}} src="https://cdn-icons.flaticon.com/png/128/4628/premium/4628711.png?token=exp=1658367751~hmac=fc6548f588a3ade2388b4d9c9cf14a69" alt="" />
