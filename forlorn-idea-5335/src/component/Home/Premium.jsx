@@ -55,7 +55,7 @@ Guidance</h1>
             
             </div>
 
-              <div className='button'>
+              <div className='more'>
                 <button className='morefeature'>MORE FEATURES</button>
              </div>
        

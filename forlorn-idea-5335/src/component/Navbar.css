@@ -2,7 +2,7 @@
 .navbar{
     width:100%;
     height:100px;
-    /* background:red; */
+    background:white;
     position:fixed;
     display: flex;
     justify-content: space-around;
@@ -10,32 +10,60 @@
 .logo{
     height: 80px;
     width: 25%;
-    background-color: red;
+    /* background-color: red; */
+}
+.logo>img{
+   
+    width: 70%;
 }
 .modal{
     height: 80px;
     width: 35%;
     background-color: red;
 }
-.button{
+.lbutton{
     
         height: 80px;
         width: 25%;
+        display: flex;
+        justify-content: space-around;
+        margin-top: 20px;
         /* background-color: red; */
     
 }
 .signup{
     background-color:orange;
 }
-.button{
-    display: flex;
-    justify-content: space-around;
-}
+
 
 .right-menu{
-    position: relative;
-    display: inline-block;
-    float: right;
+
+   
+    display:flex;
+    justify-content: space-around;
+    width: 30%;
+    height: 150px;
+    margin-top: 35px;
+    font-size: 20px;
+    font-weight: 500;
+  
+    
+}
+.menu{
+    cursor: pointer;
+}
+.diet{
+    cursor: pointer;
+    
+}
+.library{
+    cursor: pointer;
+}
+.food{
+    cursor: pointer;
+}
+.business{
+    cursor: pointer;
 }
 
 .dropdown-menu{
@@ -56,4 +84,13 @@
 
 .right-menu:hover.menu-button{
     background-color: transparent;
+}
+#a{
+    display: none;
+    width: 300px;
+    height: 200px;
+    background-color:rgb(66, 25, 25);
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 30%;
 }
