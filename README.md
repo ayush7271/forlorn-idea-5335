@@ -12,14 +12,9 @@ This is a individual project, built by us in the Construct Week - Unit 4 at Masa
 
 ### Pages & Features 👇
 
-- `Home Page`: Nav Bar with drop downs, sliding banners & slider for Products.
+- `Home Page`: Nav Bar with drop downs.
 - `Sign-In`: User authentication to check whether user email and password match with details existing in the database.
-- `Search`: User can search for any of the products present in the website.
-- `Product Category Page and Regimen page`: Skin products created dynamically with filter by category, name and price.
-- `Cart`: User can see or remove products added in the cart.
-- `Checkout Page`: Users can increase, decrease the quantity of the product and can apply discount coupons.
-- `Payment Page`: Users can add their payment details, address and can create their account.
-- `Order Successful`: cart gets empty automatically in local storage, once the user lands on this page.
+- `Search`: User can search for any of the food present in the database.
 - `Additional Features`: Kept the branding, fonts, colors and favicon and titles consistent throughout the whole site to give a feel like the original site.
 
 ## Tech Stack
@@ -27,6 +22,7 @@ This is a individual project, built by us in the Construct Week - Unit 4 at Masa
 - HTML
 - CSS
 - Javascript - (DOM Manipulation, Local Storage)
+- React(Framework)
 
 ## Screenshots :
 
@@ -35,65 +31,23 @@ This is a individual project, built by us in the Construct Week - Unit 4 at Masa
 ![HomePage](https://user-images.githubusercontent.com/99814289/189308098-0c3c4182-d2e3-4d2b-a326-447dab64e9ec.png)
 
 
-**Sign-in DropDown**
+**Sign-up **
 
-![Sign in](https://user-images.githubusercontent.com/56001279/155868708-57d5746d-ba55-435d-978b-2df947e17b61.png)
+![Sign up](https://user-images.githubusercontent.com/99814289/189309687-905973af-e55e-4856-998c-8858fb38e880.png)
 
-**Search Page**
 
-![Search](https://user-images.githubusercontent.com/56001279/155868721-5b38d6f7-4781-4640-a574-aa5e8871ab76.png)
+**Login DropDown**
 
-**Cart Bag**
+![login](https://user-images.githubusercontent.com/99814289/189309777-2e27615f-fe4b-4edd-addf-3e55a43fcdf4.png)
 
-![Cart](https://user-images.githubusercontent.com/56001279/155868732-939f33b0-fbae-41bc-af19-8e420b64d865.png)
+
+**Search Food calorie**
+
+![food data](https://user-images.githubusercontent.com/99814289/189309890-8f60d4d1-067b-4c45-b1ad-1dc6d1ba39aa.png)
+
 
 **Footer**
 
-![Footer](https://user-images.githubusercontent.com/56001279/155868742-a400ee5a-9d71-4dcc-a4ea-04f76cd6fb21.png)
+![footer](https://user-images.githubusercontent.com/99814289/189310132-facceed2-4903-46ab-b9f6-96f9d0dd33c7.png)
 
-**All Products Page**
-
-![All Products Page](https://user-images.githubusercontent.com/56001279/155868754-4b405e49-1f02-4a7b-9e34-b729718e4e75.png)
-
-**Regimens Page**
-
-![Regimens](https://user-images.githubusercontent.com/56001279/155868767-21c9e962-74d4-4f8c-9357-3d2f30386361.png)
-
-**Checkout Page**
-
-![Checkout](https://user-images.githubusercontent.com/56001279/155868779-c6ae44ec-8e64-47d6-b2d3-b485c2b98e9f.png)
-
-**Payment Page**
-
-![Payment](https://user-images.githubusercontent.com/56001279/155868788-4a165325-3499-4568-9cc3-4d7760234dcc.png)
-
-![order placed](https://user-images.githubusercontent.com/56001279/155868801-7b866ed3-f50c-49a1-b788-a2f8bfa42fa4.png)
-
-## Roles & Responsibilities :-
-
-- GitHub is Managed & Readme.md done by Akshit.
-
-- The Landing Page, navbar, footer is designed & functioned by Akshit.
-
-- The Searchbar, sign in dropdown and cart sidebar is designed and functioned by Akshit.
-
-- All products page and filter data is designed & functioned by Ayush.
-
-- Regimens page, order confirmed page and all products array is designed & functioned by Bhushan.
-
-- Checkout page is designed & functioned by Prabhat.
-
-- Payment Page is designed & functioned by Jagrati.
-
-## Learning :-
-
-- We all became proficient in reading the code of team members.
-
-- Our code writing style became cleaner as we had to think while writing code that other team members will be reading.
-
-- We had to learn about many CSS properties that we didn't know before.
-
-- Our skills in JavaScript and DOM manipulation became better.
-
-- We all learned how to plan a project and execute that.
 
