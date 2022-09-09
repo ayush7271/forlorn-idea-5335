@@ -6,7 +6,7 @@ MyNetDiary as simply the best calorie counter app in the world. MyNetDiary has t
 
 This is a individual project, built by us in the Construct Week - Unit 4 at Masai School.
 
-- Here is the link of our website live on netlify: https://rodanfields.netlify.app/
+- Here is the link of our website live on netlify:https://sunny-squirrel-302446.netlify.app/
 
 
 
