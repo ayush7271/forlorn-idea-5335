@@ -31,7 +31,7 @@ This is a individual project, built by us in the Construct Week - Unit 4 at Masa
 ![HomePage](https://user-images.githubusercontent.com/99814289/189308098-0c3c4182-d2e3-4d2b-a326-447dab64e9ec.png)
 
 
-**Sign-up **
+**sign-up ** :
 
 ![Sign up](https://user-images.githubusercontent.com/99814289/189309687-905973af-e55e-4856-998c-8858fb38e880.png)
 
